@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Feature A
-    details: Kolla här"!!
+    details: Kolla här!!
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
